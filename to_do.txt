@@ -3,3 +3,9 @@
 3. Justitification Document is also needed.
 
 #############   SCRIPT FLOW   ###############
+
+1. Get information about the machine -- hostname, Model etc.
+2. Get all the users.
+3. Check For CPU usage if critical send notification.
+4. Check RAM.
+5. Check Hardisk.
