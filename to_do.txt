@@ -1,0 +1,5 @@
+1. 5 unique pywin32 modules are required. 
+2. Script Should be Useful for the system administrartor.
+3. Justitification Document is also needed.
+
+#############   SCRIPT FLOW   ###############
