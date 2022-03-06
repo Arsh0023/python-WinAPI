@@ -9,3 +9,42 @@
 3. Check For CPU usage if critical send notification.
 4. Check RAM.
 5. Check Hardisk.
+
+
+1. Check wether the internet is working fine or not and check all the load.
+
+Document - 
+The script is designed such that it pulls all the users info and clocks thier attendance.
+The catches all the system information and places them in a file.
+
+New Flow - 
+Get the User information.
+Clock his time.
+Check for the Load and if High send it 
+
+
+
+What is the purpose of the script? What business
+need is being met?
+• Reasoning(justification) for why you chose each
+particular Function and how does it support the
+goal/purpose of the project.
+• This is a formal document, so presentation matters.
+A client is seeing this so ensure that you take
+care in how you format this document. Your grade
+will reflect this effort
+
+
+Machine Information - 
+win32api.GetComputerName()
+
+
+Task 1 : clock the attendance.
+Task 2 : Get the machine information.
+Task 3 : Make the data secured so that not anyone can temper with the file.
+Task 4 : Not mandatory - Check what causes the Load to spike.
+
+Attendace Format - 
+1. Get the name of the employee - User.
+2. Get the time when the laptop is turned on in the morning.
+3. When the System is closed.
